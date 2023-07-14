@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_firebase_firestore_second
 
 Projeto do segundo curso de Flutter com Firestore da Alura
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# listins
+>>>>>>> 6a263693c8160c74ee67b46074dde33b4c9e92c2
